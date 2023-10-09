@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    height: 100%;
+    width: 100vw;
+  }
+
+#app {
+    height: 100%;
+}
+
+.title {
+    font-family: Greycliff CF, var(--mantine-font-family);
+    font-weight: 900;
+  }
+  
